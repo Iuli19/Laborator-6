@@ -1,0 +1,35 @@
+.b {
+  background-color: rgb(163, 177, 177);
+  font-family: fantasy;
+}
+.a {
+  width: 30%;
+  border: 5px solid pink;
+  padding: 5px;
+  margin-top: 10px;
+}
+.c {
+  width: 30%;
+  border: 5px solid green;
+  padding: 5px;
+  margin-top: 10px;
+}
+.d {
+  width: 30%;
+  border: 5px solid royalblue;
+  padding: 5px;
+  margin-top: 10px;
+}
+.e {
+  width: 30%;
+  border: 5px solid lightblue;
+  padding: 5px;
+  margin-top: 10px;
+}
+div img{
+  width: 30%;
+  margin-top: 20px;
+  padding: 5px;
+  border: 5px solid rgb(96, 153, 96); 
+  border-radius: 30px;
+}
